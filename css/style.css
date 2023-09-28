@@ -567,7 +567,6 @@ input {
   margin: 2rem 0;
   font-size: 3rem;
   color: white;
-  /* Скроем элемент в начальном состоянии */
   opacity: 0;
   transform: translateY(20px);
 }
