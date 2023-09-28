@@ -16,7 +16,7 @@ Add one or more of the mini-projects you completed this week (or something you b
 I added a fade-and-slide-in effect to the headers on the main page of my personal website.
 I chose to make this change to enhance the visual appeal and interactivity of my website.
 The animation provides a more engaging user experience by making content appear dynamically as the user scrolls down the page.
-Additionally, I added a new project to the "Projects" page, including an image, title, description, and a link to the GitHub repository.
+Additionally, I added a new project 4 "String Reversal Web Tool" (which I made this week) to the "Projects" page, including an image, title, description, and a link to the GitHub repository.
 This change was made to showcase my recent work and provide visitors with easy access to project details.
 Overall, these additions improve the overall aesthetics and functionality of my personal website
 
